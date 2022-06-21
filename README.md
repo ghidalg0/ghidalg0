@@ -1,4 +1,4 @@
-### Hello there, I'm Guilhem 🤙👌
+### Hi guys, I'm Guilhem 🤙👌
 ### 🚀 I started learning to code @ Le Wagon in April 2022, which was the best decision of my life. I love coding.
 ### 🔭 I’m currently working on several projects
 ### 🌱 I’m currently learning Ruby on Rails, HTML & CSS and I will start React / React Native soon 🔥
