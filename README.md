@@ -1,7 +1,6 @@
 ### Hi guys, I'm Guilhem 🤙👌
-### 🚀 I started learning to code @ Le Wagon in April 2022, which was the best decision of my life. I love coding.
-### 🌱 I’m currently working on Next.js & React Native 🔥
-### 📫 How to reach me: guilhemhidalgo.projet@gmail.com
+### 🚀 I started learning to code @ Le Wagon (Ruby On Rails) in April 2022, which was the best decision of my life. I love coding.
+### 🚀 Currently working on Next.js & React Native 🔥
 
 <!--
 **ghidalg0/ghidalg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
