@@ -1,7 +1,6 @@
 ## Hi friends, I'm Guilhem ☀️
 
-## Teacher @ Le Wagon 💻
-
+### Teacher @ Le Wagon (RoR, JavaScript, SQL, UI/UX design) 💻
 ### Fullstack web devlopment using Next.js 
 ### Mobile development using Expo & React Native
 
