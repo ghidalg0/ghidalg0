@@ -1,5 +1,10 @@
 ### Hi friends, I'm Guilhem ☀️
 
+## Teacher @ Le Wagon 💻
+
+# Fullstack web devlopment using Next.js 
+# Mobile development using Expo & React Native
+
 <!--
 **ghidalg0/ghidalg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
